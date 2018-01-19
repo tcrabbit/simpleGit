@@ -1,2 +1,0 @@
-# simpleGit
-exerciseOpenClass
