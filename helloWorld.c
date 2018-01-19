@@ -12,6 +12,5 @@ int main(int argc, char const *argv[])
 	else{
 		printf("Don't worry\n");
 	}
-	
 	return 0;
 }
